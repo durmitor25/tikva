@@ -1,4 +1,4 @@
-const CACHE = 'tikva-v31';
+const CACHE = 'tikva-v33';
 const ASSETS = ['./', 'index.html', 'app.html', 'manifest.json', 'icon-192.png', 'icon-512.png', 'icon-512-maskable.png'];
 
 self.addEventListener('install', (e) => {

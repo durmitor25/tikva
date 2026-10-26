@@ -56,7 +56,7 @@ Izvor dizajna je `Tikva.dc.html` u korijenu projekta — izmjene plana se upisuj
 ## 3. Plan treninga
 
 19 sedmica od 3. augusta do 13. decembra 2026, prvi spust 14. decembra.
-Trening ponedjeljak (A), srijeda (B), petak (C); subota tura; nedjelja odmor.
+Trening ponedjeljak (A), srijeda (B), petak (C); od 13. sedmice i utorak (D, kratki, kod kuće); subota tura; nedjelja odmor.
 
 | Faza | Sedmice | Cilj |
 |---|---|---|
@@ -78,9 +78,12 @@ Od sedmice 10 (5. oktobar) A, B i C su različiti:
 | 17–18 | Najteži dio: skokovi preko kutije, krug zamora, brutalni finiš |
 | 19 | **Taper:** pola volumena, zadnji teži trening u srijedu |
 
-- **Pon (A):** skokovi + snaga nogu + klizna adukcija.
+- **Pon (A):** skokovi + snaga nogu + klizna adukcija + bočni plank s podizanjem aduktora.
+- **Uto (D, od 13. sedmice, ~20 min):** mišići koje A ne radi — torakalna rotacija, potisak koljenom u loptu uza zid (gluteus minimus: stojiš na lijevoj, desno koljeno gura loptu), hollow body rock, balans zatvorenih očiju.
 - **Sri (B):** snaga + tibialis + core (Pallof, Copenhagen, carry).
-- **Pet (C):** jednonožna snaga (leg press) + adukcija + intervali / zamor.
+- **Pet (C):** jednonožna snaga (leg press) + adukcija + intervali / zamor; od 13. sedmice i minimus uza zid + kontinuirani skok-čučnjevi.
+
+Hollow body rock, kontinuirani skok-čučnjevi i bočni plank s aduktorima su vježbe Marcusa Goguena (vidi `DRYLAND-MARCUS-GOGUEN.md`).
 
 **Test lijevog zgloba (prije sedmice 15):** 30 s na lijevoj nozi zatvorenih očiju, i koljeno dodiruje zid s prstima 7,5 cm od zida.
 
@@ -101,10 +104,19 @@ Svaki trening ima lakšu verziju. Po defaultu ide A/B/C; lakša ide **sama dan p
 - **Ruke lakše (poslije penjanja):** bez farmer walka, suitcase carryja i bacanja medicinke; Pallof i chop serija manje.
 - Da bi radilo, jučerašnji dan mora biti **označen kao odrađen s pravom vrstom** (npr. Penjanje, Hiking).
 - Na ekranu treninga: **Vrati puni trening** / **Primijeni lakši**.
-- U tabu **Vježbe** biraš A · A2 · B · B2 · C · C2. Dok A2 ne mijenjaš, pravi se sam od A; kad ga urediš, ostaje tvoja verzija (**Vrati original** ga vraća na automatski).
+- U tabu **Vježbe** biraš A · A2 · B · B2 · C · C2 (od 13. sedmice i D; D nema lakšu verziju). Dok A2 ne mijenjaš, pravi se sam od A; kad ga urediš, ostaje tvoja verzija (**Vrati original** ga vraća na automatski).
 - Izmjene u tabu Vježbe imaju prednost nad planom iz koda — ako nova sedmica izgleda „po starom”, za nju klikni **Vrati original**.
 
 YouTube linkovi su vezani za vježbu, ne za poziciju u treningu — ostaju i kad se plan mijenja.
+
+### Vlastiti treninzi (npr. „Trening Marcus”)
+1. Tab **Vježbe** → **+ Novi trening** → upiši naziv → **Napravi**. Novi trening se pojavi pored A · B · C · D.
+2. Dodaj vježbe: **+ Dodaj vježbu iz biblioteke**, ili **Nova vlastita vježba** ako je nema u biblioteci. Doze podešavaš steperima, kao kod ostalih treninga.
+3. Lista vrijedi od sedmice u kojoj je uređena nadalje. Kad je u nekoj sedmici promijeniš, nova lista vrijedi od te sedmice.
+4. Na dan ga staviš ručno: **Plan** → dodirni dan → izaberi naziv treninga. Ne ponavlja se sam.
+5. **Obriši** (dva dodira) skida trening s neodrađenih dana. Odrađeni dani ostaju u istoriji.
+
+Vlastiti trening nema lakšu verziju (A2/B2/C2). Kad ga staviš na dan, računa se kao i ostali treninzi: ako ga ne odradiš, piše „Propušteno”.
 
 ---
 
